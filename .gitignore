@@ -1,0 +1,14 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.vs/
+
+# Other build artifacts
+*.a
+*.so
+*.dll
